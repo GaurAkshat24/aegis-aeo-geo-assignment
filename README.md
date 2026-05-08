@@ -5,6 +5,14 @@ gap analysis. Built as a take-home assignment for the AI Engineer role.
 
 ---
 
+## 🎥 Walkthrough Video
+
+A short video walkthrough covering the approach, technical decisions, and relevant experience has been submitted via Google Drive:
+
+[▶ Watch Walkthrough Video](https://drive.google.com/file/d/1kxaU6P_yOFMqQrMTKewe0bXpULKzfRCh/view?usp=sharing)
+
+---
+
 ## Quick Start
 
 ### 1. Install dependencies
